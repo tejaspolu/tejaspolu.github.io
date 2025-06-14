@@ -2,7 +2,7 @@ main:
   - title: "CCC: Enhancing Video Generation via Structured MLLM Feedback"
     authors: Jing Gu, Ashwin Nagarajan, <u><strong>Tejas Polu</strong></u>, Kaizhi Zheng, Ruijian Zha, Jie Yang, Xin Eric Wang
     conference_short: ICML
-    conference: "ICML 2025: Test-Time Adaptation: Putting Updates to the Test!"
+    conference: "ICML 2025: Test-Time Adaptation – Putting Updates to the Test!"
     title_link: https://tta-icml2025.github.io/
     image: ./assets/img/icml_2025_workshop.png
     notes: Workshop Paper
