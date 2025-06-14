@@ -1,5 +1,4 @@
 main:
-  # Example publication structure - replace with your own or remove this section
   - title: "CCC: Enhancing Video Generation via Structured MLLM Feedback"
     authors: Jing Gu, Ashwin Nagarajan, <u><strong>Tejas Polu</strong></u>, Kaizhi Zheng, Ruijian Zha, Jie Yang, Xin Eric Wang
     conference_short: ICML
@@ -18,29 +17,3 @@ main:
     image: ./assets/img/chi_2025_workshop.png
     notes: Workshop Paper
     bibtex: /assets/bibtex/chi_2025_workshop.bib
-
-  # - title: Can Large Language Models Explain Themselves? A Study of LLM-Generated Self-Explanations
-  #   authors: Shiyuan Huang, Siddarth Mamidanna, Shreedhar Jangam, Yilun Zhou, Leilani H. Gilpin
-  #   conference_short: arXiv
-  #   conference: arXiv preprint 2310.11207, 2023
-  #   pdf: https://arxiv.org/pdf/2310.11207.pdf
-  #   image: ./assets/img/llmExplainPaper.png
-  #   notes: Preprint
-  #   bibtex: https://arxiv.org/abs/2310.11207
-  #   # bibtex: |
-  #   #   @misc{huang2023large,
-  #   #   title={Can Large Language Models Explain Themselves? A Study of LLM-Generated Self-Explanations}, 
-  #   #   author={Shiyuan Huang and Siddarth Mamidanna and Shreedhar Jangam and Yilun Zhou and Leilani H. Gilpin},
-  #   #   year={2023},
-  #   #   eprint={2310.11207},
-  #   #   archivePrefix={arXiv},
-  #   #   primaryClass={cs.CL}
-  #   #   }
-  # - title: "The Hidden Risks of Large Reasoning Models: A Safety Assessment of R1"
-  #   authors: Kaiwen Zhou, Chengzhi Liu, Xuandong Zhao, Shreedhar Jangam, Jayanth Srinivasa, Gaowen Liu, Dawn Song, Xin Eric Wang
-  #   conference_short: arXiv
-  #   conference: arXiv preprint 2502.12659, 2025
-  #   pdf: https://arxiv.org/pdf/2502.12659
-  #   image: ./assets/img/r1Eval2.png
-  #   notes: Preprint
-  #   bibtex: https://arxiv.org/abs/2502.12659

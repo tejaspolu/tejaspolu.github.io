@@ -10,9 +10,7 @@ function applyLink(source, target) {
   target.setAttribute('href', source.getAttribute('href'))
 }
 
-// eslint-disable-next-line no-unused-vars
 function initSwitcher(delay) {
-  // Exit if media queries aren't supported
   if (typeof window.matchMedia !== 'function') {
     return function noop() {}
   }

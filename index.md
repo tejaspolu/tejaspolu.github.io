@@ -30,5 +30,3 @@ Hi 👋🏽 I'm Tejas Polu, a 3rd year undergraduate student advised by <a href=
 - **CSE 101** - Data Structures & Algorithms
 - **CSE 120** - Computer Architecture
 - **CSE 13S** - Computer Systems
-
-<!-- {% include_relative _includes/extracurriculars.md %} -->
