@@ -1,0 +1,46 @@
+main:
+  # Example publication structure - replace with your own or remove this section
+  - title: "CCC: Enhancing Video Generation via Structured MLLM Feedback"
+    authors: Jing Gu, Ashwin Nagarajan, <u><strong>Tejas Polu</strong></u>, Kaizhi Zheng, Ruijian Zha, Jie Yang, Xin Eric Wang
+    conference_short: ICML
+    conference: "ICML 2025: Test-Time Adaptation: Putting Updates to the Test!"
+    title_link: https://tta-icml2025.github.io/
+    image: ./assets/img/icml_2025_workshop.png
+    notes: Workshop Paper
+    link: https://tta-icml2025.github.io/
+
+  - title: "Human-centered World Modeling: Enhancing Multi-Agent AI Adaptability with Chain-of-Thought and Symbolic Reasoning"
+    authors: Reza Habibi, Zhiyu Lin, Jiahong Li, <u><strong>Tejas Polu</strong></u>, Ashwin Nagarajan, Magy Seif El-Nasr
+    conference_short: CHI
+    conference: "CHI 2025: Human-AI Interaction for Augmented Reasoning"
+    title_link: https://www.researchgate.net/publication/389593553_Human-centered_World_Modeling_Enhancing_Multi-Agent_AI_Adaptability_with_Chain-of-Thought_and_Symbolic_Reasoning
+    pdf: https://www.researchgate.net/profile/Reza-Habibi-7/publication/389593553_Human-centered_World_Modeling_Enhancing_Multi-Agent_AI_Adaptability_with_Chain-of-Thought_and_Symbolic_Reasoning/links/67c8d36a32265243f582aea5/Human-centered-World-Modeling-Enhancing-Multi-Agent-AI-Adaptability-with-Chain-of-Thought-and-Symbolic-Reasoning.pdf
+    image: ./assets/img/chi_2025_workshop.png
+    notes: Workshop Paper
+    bibtex: /assets/bibtex/chi_2025_workshop.bib
+
+  # - title: Can Large Language Models Explain Themselves? A Study of LLM-Generated Self-Explanations
+  #   authors: Shiyuan Huang, Siddarth Mamidanna, Shreedhar Jangam, Yilun Zhou, Leilani H. Gilpin
+  #   conference_short: arXiv
+  #   conference: arXiv preprint 2310.11207, 2023
+  #   pdf: https://arxiv.org/pdf/2310.11207.pdf
+  #   image: ./assets/img/llmExplainPaper.png
+  #   notes: Preprint
+  #   bibtex: https://arxiv.org/abs/2310.11207
+  #   # bibtex: |
+  #   #   @misc{huang2023large,
+  #   #   title={Can Large Language Models Explain Themselves? A Study of LLM-Generated Self-Explanations}, 
+  #   #   author={Shiyuan Huang and Siddarth Mamidanna and Shreedhar Jangam and Yilun Zhou and Leilani H. Gilpin},
+  #   #   year={2023},
+  #   #   eprint={2310.11207},
+  #   #   archivePrefix={arXiv},
+  #   #   primaryClass={cs.CL}
+  #   #   }
+  # - title: "The Hidden Risks of Large Reasoning Models: A Safety Assessment of R1"
+  #   authors: Kaiwen Zhou, Chengzhi Liu, Xuandong Zhao, Shreedhar Jangam, Jayanth Srinivasa, Gaowen Liu, Dawn Song, Xin Eric Wang
+  #   conference_short: arXiv
+  #   conference: arXiv preprint 2502.12659, 2025
+  #   pdf: https://arxiv.org/pdf/2502.12659
+  #   image: ./assets/img/r1Eval2.png
+  #   notes: Preprint
+  #   bibtex: https://arxiv.org/abs/2502.12659
